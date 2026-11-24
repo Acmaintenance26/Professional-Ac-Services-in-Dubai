@@ -1,0 +1,8 @@
+{
+  "name": "Remix AC Maintenance Dubai",
+  "description": "Professional AC repair, maintenance, gas refill, duct cleaning, and HVAC services across Dubai with same-day 24/7 emergency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
